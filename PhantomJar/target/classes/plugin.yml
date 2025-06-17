@@ -1,0 +1,6 @@
+main: me.d3mocracy.nectarspirit.NectarSpirit
+version: 1.0.0-SNAPSHOT
+name: SpiritNecter
+author: d3mocracy
+api-version: 1.13
+depend: [NBTAPI]
