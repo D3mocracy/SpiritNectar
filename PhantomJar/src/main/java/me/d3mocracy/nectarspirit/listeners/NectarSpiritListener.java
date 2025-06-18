@@ -128,7 +128,7 @@ public class NectarSpiritListener implements Listener {
                 entity.remove();
 
             } else {
-                player.sendMessage(ChatColor.RED + "You can only capture living entities!");
+                return;
             }
         }
     }
